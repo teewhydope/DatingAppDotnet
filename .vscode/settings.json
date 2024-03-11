@@ -1,0 +1,13 @@
+{
+    "dotnet.server.useOmnisharp": true,
+    "csharp.format.enable": true,
+    "csharp.semanticHighlighting.enabled": true,
+    "omnisharp.enableAsyncCompletion": true,
+    "omnisharp.organizeImportsOnFormat": true,
+    "dotnet.completion.showCompletionItemsFromUnimportedNamespaces": true,
+    "dotnet.symbolSearch.searchReferenceAssemblies": true,
+    "razor.format.enable": true,
+    "omnisharp.useModernNet": true,
+    "omnisharp.useEditorFormattingSettings": true,
+    "omnisharp.enableEditorConfigSupport": false
+}
